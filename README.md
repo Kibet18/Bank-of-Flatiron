@@ -21,6 +21,7 @@ Git clone https://github.com/Kibet18/Phase-2-Code-Challenge-wk-1
 ```
 
 # Live -link
+https://kibet18.github.io/Bank-of-Flatiron/
 
 
 ## Technologies used
